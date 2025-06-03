@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @RASYY
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 🌟 Yo, I’m RASYAA!
 
-<!---
-RASYY/RASYY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔧 Messing around with AOSP ROMs — tryna build something light + clean 🔥
+- 🧠 Learning C++ (so if I go silent, I’m probably debugging lol)
+- 💬 Down to collab on Android projects or anything cool and open-source
+- 📬 Hit me up: [your contact or social]
+
+---
+
+✨ This is my GitHub profile README — stay tuned for more updates ✨
