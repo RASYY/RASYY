@@ -1,4 +1,4 @@
-(install dependesi)
+```(install dependesi)
 
 sudo apt update
 sudo apt install bc bison build-essential curl flex git gnupg gperf libncurses5-dev libssl-dev libxml2-utils lzop openjdk-11-jdk python-is-python3 repo rsync unzip zip zlib1g-dev
@@ -25,4 +25,4 @@ git clone https://github.com/<your-kernel> kernel/<vendor>/<codename>
 lunch lineage_<codename>-userdebug
 mka bacon
 
-‼️ DON'T FORGET ADD GAPPS ‼️
+‼️ DON'T FORGET ADD GAPPS ‼️```
