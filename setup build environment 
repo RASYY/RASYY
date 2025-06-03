@@ -1,0 +1,28 @@
+(install dependesi)
+
+sudo apt update
+sudo apt install bc bison build-essential curl flex git gnupg gperf libncurses5-dev libssl-dev libxml2-utils lzop openjdk-11-jdk python-is-python3 repo rsync unzip zip zlib1g-dev
+
+(directory build)
+
+mkdir ~/nayarom
+cd ~/nayarom
+
+(init repo lineageOS base)
+
+repo init -u https://github.com/LineageOS/android.git -b lineage-20.0
+repo sync -j$(nproc --all)
+
+(clone device tree, vendor and kernel)
+
+git clone https://github.com/<your-device-tree> device/<vendor>/<codename>
+git clone https://github.com/<your-vendor> vendor/<vendor>/<codename>
+git clone https://github.com/<your-kernel> kernel/<vendor>/<codename>
+
+(configuration and build rom)
+
+. build/envsetup.sh
+lunch lineage_<codename>-userdebug
+mka bacon
+
+‼️ DON'T FORGET ADD GAPPS ‼️
