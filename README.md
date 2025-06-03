@@ -1,8 +1,11 @@
-`🌟 Yo, I’m RASYAA!`
+# 👋 Hi, I’m RASYAA!
 
-- `🔧 Messing around with AOSP ROMs — tryna build something light + clean 🔥`
-- `🧠 Learning C++ (so if I go silent, I’m probably debugging lol)`
-- `💬 Down to collab on Android projects or anything cool and open-source`
-- `📬 Hit me up: [mrasyar81@gmail.com]`
+- 👀 I’m interested in building custom AOSP ROMs (Android Open Source Project)
+- 🌱 Currently learning C++ and loving the grind!
+- 🤝 I’m open to collaborate on Android dev projects, especially lightweight ROMs with GApps.
+- 📫 How to reach me: [mrasyar81@gmail.com]
 
-`✨ This is my GitHub profile README — stay tuned for more updates ✨`
+---
+
+📝 This is my special `README.md` that appears on my GitHub profile.
+Thanks for stopping by! 🌟
